@@ -1,4 +1,4 @@
-# Find Out the number of cells used in your google sheet
+# Find out the number of cells used in your google sheet
 
 Step 1 > Google Apps Script 
 
